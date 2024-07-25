@@ -12,6 +12,7 @@ function CompanyPage() {
       <img src={companyProfile.logo} alt="" />
       <div className="companyDescription">
         <h1>holA</h1>
+        {/* falta renderizar , iteracion nº 5.2 */}
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
           Quas harum, quasi laudantium soluta totam nihil rerum eveniet
           asperiores possimus itaque quia tempore, facere fuga adipisci
