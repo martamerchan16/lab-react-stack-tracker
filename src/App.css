@@ -33,3 +33,29 @@ body {
 .companyCard img {
     width: 25%;
 }
+
+.company {
+    align-items: center;
+}
+
+.technologies {
+    display: flex;
+}
+
+.technologies img {
+    width: 50%;
+}
+
+.LinkTech {
+    text-decoration: none;
+    width: 50%;
+    color: black;
+}
+
+.technology {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid rgb(192, 163, 163);
+}
